@@ -1,0 +1,23 @@
+preparing dataset - Jupyter Notebook which prepares the datasets for the machine learning algorithm
+
+model evaluation - Jupyter Notebook which creates a Tensorflow Keras Sequential model for value prediction
+
+
+Datasets from Kaggle (should be downloaded from the link):
+train
+test
+holiday_events
+oil
+stores
+sample_submission
+transactions
+
+Dataset created by Notebooks:
+train_1 - Final dataset to train the model after all cleaning
+test_1 - Final dataset to be predicted from the model after all cleaning
+final_predictions - Final Predictions of the model on unknown data (File to be submitted into Kaggle)
+
+
+Dataset:
+Alexis Cook, DanB, inversion, Ryan Holbrook. (2021). Store Sales - Time Series Forecasting. Kaggle. https://kaggle.com/competitions/store-sales-time-series-forecasting
+
